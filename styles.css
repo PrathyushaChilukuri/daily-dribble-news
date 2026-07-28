@@ -1,0 +1,87 @@
+
+
+.main {
+    border: 3px solid #121212;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.heading {
+    text-align: center;
+    color: #121212;
+    font-family:'Montserrat', sans-serif;
+}
+
+.stadium-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 380px;
+    
+    border: 3px solid #121212;
+}
+
+.description {
+    font-family:'Montserrat', sans-serif;
+    font-size:medium;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 380px;
+    font-style: italic;
+    text-align:center;
+}
+
+.input-text {
+    font-family:'Montserrat', sans-serif;
+    margin-top: 28px;
+    margin-bottom: 8px;
+    text-align: center;
+    color: lightgray;
+    font-weight: bold;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 220px;
+
+    border: 3px solid #121212;
+}
+
+.join-button {
+    font-family:'Montserrat', sans-serif;
+    background-color: #121212;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+
+    border: 3px solid #121212;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 258px;
+
+}
+
+.terms-para {
+    font-family:'Montserrat', sans-serif;
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+}
